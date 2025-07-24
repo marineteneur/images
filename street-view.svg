@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="22.606621"
+   height="26.669559"
+   viewBox="0 0 22.606621 26.669559"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <g
+       id="g6"
+       transform="translate(-0.65431269,0.16357817)">
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.906262;stroke-opacity:1"
+         id="path1"
+         cx="11.98569"
+         cy="3.1223276"
+         rx="3.139539"
+         ry="3.0899675" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.2;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2"
+         width="6.179935"
+         height="8.0967054"
+         x="8.8735313"
+         y="15.158565"
+         ry="1.0244812" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.2;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3"
+         width="10.343956"
+         height="7.5679431"
+         x="6.8245683"
+         y="8.4498653"
+         ry="1.0244812" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.69791;stroke-dasharray:none;stroke-opacity:1"
+         id="path4"
+         cx="12.001917"
+         cy="9.1672354"
+         rx="3.8230474"
+         ry="1.3789858" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.62083;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 5.6177794,20.361921 C 4.940438,20.499299 4.2630966,20.636678 3.669938,20.807385 3.0767793,20.978093 2.5678033,21.182129 2.0866068,21.498291 1.6054102,21.814453 1.1519935,22.24274 1.0862472,22.664393 c -0.065746,0.421653 0.2561738,0.836665 0.7590899,1.194322 0.5029162,0.357657 1.1867972,0.657938 2.052287,0.900579 0.8654898,0.242641 1.9125697,0.427635 3.0344398,0.563356 1.1218701,0.135722 2.3185229,0.22217 3.5269431,0.214255 1.208421,-0.0079 2.428584,-0.110191 3.503428,-0.25383 1.074843,-0.143639 2.004357,-0.328638 2.831822,-0.588216 0.827465,-0.259578 1.552865,-0.593728 2.032552,-0.963103 0.479688,-0.369374 0.713659,-0.773969 0.577916,-1.217939 -0.135743,-0.443971 -0.641194,-0.9273 -1.462113,-1.295777 -0.820919,-0.368477 -1.957298,-0.622097 -3.093683,-0.875718"
+         id="path5"
+         transform="matrix(1.1183619,0,0,1.102774,0.50595284,-2.6633926)" />
+    </g>
+  </g>
+</svg>
